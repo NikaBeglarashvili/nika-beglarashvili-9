@@ -50,7 +50,7 @@ section{
     height: 610px;
     background-color: #2A2626;
     margin: 0 auto;
-    position: relative;
+    
 
     
 }
@@ -60,7 +60,7 @@ section{
     justify-content: center;
     color: white;
     font-size: 48px;
-    position: absolute;
+   
     
 }
 
@@ -75,3 +75,32 @@ section{
 
 
 /* section 2 */
+
+
+
+.section2{
+    width: 80%;
+    height: 610px;
+    background-color: #0B0A0A;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+} 
+
+
+.section2 p{
+    width: 45%;
+    height: 320px;
+    background-color:#8E8B8B ;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    
+}
+
+/* footer */
