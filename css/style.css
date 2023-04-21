@@ -3,7 +3,7 @@
 
 
 header{
-    width: 1440px;
+    width: 80%;
     height: 700px;
     margin: 0 auto;
     background-image: url("../images/header\ background.png");
@@ -41,4 +41,37 @@ ul{
 }
 
 
+/* section 1 */
 
+
+
+section{
+    width: 80%;
+    height: 610px;
+    background-color: #2A2626;
+    margin: 0 auto;
+    position: relative;
+
+    
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 48px;
+    position: absolute;
+    
+}
+
+
+.sectionpoto{
+    display: flex;
+    justify-content: center;
+    margin-top: 194px;
+    gap: 31px;
+}
+
+
+
+/* section 2 */
