@@ -101,7 +101,7 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
 
 } 
 
@@ -137,5 +137,13 @@ footer{
     align-items: center;
     gap: 400px;
     
+}
+
+
+.footericon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
 }
 
