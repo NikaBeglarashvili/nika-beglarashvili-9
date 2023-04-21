@@ -1,0 +1,44 @@
+
+/* header */
+
+
+header{
+    width: 1440px;
+    height: 700px;
+    margin: 0 auto;
+    background-image: url("../images/header\ background.png");
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.head{
+    display: flex;
+    gap: 680px;
+    margin-left: 125px;
+}
+
+
+nav{
+    display: flex;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 53px;
+    color: white;
+    
+}
+
+.headerp{
+    width: 1046px;
+    margin: 400px auto;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+
